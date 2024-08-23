@@ -9,7 +9,6 @@ function allPrimes(n){
             }
         }
         if(isPrime) primes.push(i);
-
     }
      return primes;
 }
